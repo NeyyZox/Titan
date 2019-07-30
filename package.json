@@ -1,0 +1,12 @@
+{
+  "name": "titan",
+  "version": "0.1.0",
+  "description": "Projet développement bot Discord",
+  "main": "main.js",
+  "repository": " https://github.com/NeyyZox/titan.git",
+  "author": "NeyyZox <gasparddescombes2005@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "discordjs/discord.js"
+  }
+}
